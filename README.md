@@ -1,4 +1,4 @@
-# Earth Speed Calculator (Physics & AddMath Model)
+# Earth Speed Calculator (Physics & AddMath Model) (With the help of some Artificial Intelligence)
 
 This repository contains a Python script that calculates the translational (orbital) and rotational speeds of the Earth using standard kinematics and orbital mechanics formulas. 
 
